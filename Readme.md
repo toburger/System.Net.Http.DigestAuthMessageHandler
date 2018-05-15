@@ -1,5 +1,7 @@
 # System.Net.Http.DigestAuthMessageHandler
 
+[![Build Status](https://travis-ci.org/toburger/System.Net.Http.DigestAuthMessageHandler.svg?branch=master)](https://travis-ci.org/toburger/System.Net.Http.DigestAuthMessageHandler)
+
 Features
 
 * Authentication via Digest
